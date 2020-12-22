@@ -1,0 +1,12 @@
+version: '2'
+services:
+  cli:
+    env_file: .env
+    environment:
+      NODE_PATH: /node_modules
+    build: .
+    volumes:
+      - ./spaces.json:/data/spaces.json
+      - ./app:/app
+      - ./logs:/logs
+      - ./data:/data

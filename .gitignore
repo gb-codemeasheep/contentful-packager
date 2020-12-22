@@ -1,0 +1,14 @@
+/logs/*
+/data/*
+.env
+.idea
+spaces.json
+.DS_Store
+.idea/jsLibraryMappings.xml
+.idea/libraries/
+.idea/misc.xml
+.idea/modules.xml
+.idea/spinifex-contentful-packager.iml
+.idea/workspace.xml
+logs/
+node_modules/

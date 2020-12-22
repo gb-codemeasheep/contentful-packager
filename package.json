@@ -1,0 +1,19 @@
+{
+  "name": "contentful-packager",
+  "version": "1.1.2",
+  "license": "UNLICENSED",
+  "author":{
+    "name": "Guillaume Bodi",
+    "email":"guillaume@codemeasheep.com"
+  },
+  "dependencies": {
+    "aws-sdk": "2.4.4",
+    "bluebird": "3.4.1",
+    "colors": "1.1.2",
+    "commander": "2.9.0",
+    "contentful": "3.4.3",
+    "fs-extra": "0.30.0",
+    "targz": "1.0.1",
+    "underscore": "^1.8.3"
+  }
+}
